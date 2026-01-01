@@ -1,0 +1,236 @@
+(footprint "DSBGA-4_L0.8-W0.8-R2-C2-P0.40-BL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.2 0)
+		(layer "F.SilkS")
+		(uuid "62225a39-8690-4984-a251-27ad8778dadb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DSBGA-4_L0.8-W0.8-R2-C2-P0.40-BL"
+		(at 0 4.2 0)
+		(layer "F.Fab")
+		(uuid "6e081fc2-e069-4785-a90d-eb3510f1c5ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3981e18-451a-4de8-915f-8a9e782059d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cede9683-c245-4bc6-aadb-9ac77e270e26")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.51 0.36)
+		(end -0.51 0.51)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "959a9470-bd49-4f6d-9bd2-0caab8589782")
+	)
+	(fp_line
+		(start -0.51 0.51)
+		(end -0.36 0.51)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6cf9314-fd68-4489-af5a-f880011e8d15")
+	)
+	(fp_line
+		(start -0.4 -0.4)
+		(end 0.4 -0.4)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a88c6780-6860-44dc-b779-a33adb896c03")
+	)
+	(fp_line
+		(start -0.4 0.4)
+		(end -0.4 -0.4)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ff4104d-28b4-4f41-bf17-e6b38b85f1c4")
+	)
+	(fp_line
+		(start -0.36 0.51)
+		(end -0.51 0.36)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ffba2fe-3838-4262-be9a-4c64faecf6c0")
+	)
+	(fp_line
+		(start 0.4 -0.4)
+		(end 0.4 0.4)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17bd56e6-6495-4a69-8d44-f873e3bd640a")
+	)
+	(fp_line
+		(start 0.4 0.4)
+		(end -0.4 0.4)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e14277bd-ec27-495e-9c2e-3f6a40b5f559")
+	)
+	(fp_circle
+		(center -0.25 0.25)
+		(end -0.2 0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "3394cd86-e015-4b2d-9557-c5054f1f1188")
+	)
+	(fp_circle
+		(center -0.4 0.4)
+		(end -0.37 0.4)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d9fec764-19da-43b8-94bd-c7acf09934b8")
+	)
+	(fp_circle
+		(center -0.2 -0.2)
+		(end -0.14 -0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7113ae8a-831f-41df-8206-f67ca745857b")
+	)
+	(fp_circle
+		(center -0.2 0.2)
+		(end -0.14 0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "41224802-87f6-44f1-8e63-9be2b7b4505e")
+	)
+	(fp_circle
+		(center 0.2 -0.2)
+		(end 0.26 -0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7f7593e9-a053-434c-88e0-6943b5e3829b")
+	)
+	(fp_circle
+		(center 0.2 0.2)
+		(end 0.26 0.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2990793c-31d4-49f7-85fd-30c2e5a12074")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c43837e0-1ef3-4f10-bbf5-adfdef8414c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "A1" smd circle
+		(at -0.2 0.2)
+		(size 0.18 0.18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cd505eaf-b1ca-456e-a257-0378fdcee9d7")
+	)
+	(pad "A2" smd circle
+		(at -0.2 -0.2)
+		(size 0.18 0.18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c0bc4227-4070-4b9b-94b2-e892267f6418")
+	)
+	(pad "B1" smd circle
+		(at 0.2 0.2)
+		(size 0.18 0.18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2253a7f1-de2f-4eee-9305-6f482d4e22b0")
+	)
+	(pad "B2" smd circle
+		(at 0.2 -0.2)
+		(size 0.18 0.18)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "db82b914-a19e-40c8-9f63-7f31f9d549a1")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3ds/DSBGA-4_L0.8-W0.8-H0.5-R2-C2-P0.40-BL.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
