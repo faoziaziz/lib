@@ -219,7 +219,7 @@
 		(uuid "26241c99-9b03-449f-b5b6-c5b9a22253eb")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/3ds/PG-TDSON-8_L5.0-W6.0-H0.9-P1.27-BL-EP.wrl"
+	(model "${KIPRJMOD}/lib/3ds/PG-TDSON-8_L5.0-W6.0-H0.9-P1.27-BL-EP.wrl"
 		(offset
 			(xyz -0 0 -0)
 		)
