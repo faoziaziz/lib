@@ -9492,7 +9492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:DFN-16_L5.0-W3.0-P0.50-BL-EP"
+		(property "Footprint" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -9511,15 +9511,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "lcsc_id" "C685579"
 			(at 0 0 0)
 			(effects
 				(font
