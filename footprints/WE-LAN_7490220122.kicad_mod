@@ -1,5 +1,5 @@
 
-(footprint WE-LAN_7490220122 (layer F.Cu) (tedit 693C74F1)
+(footprint WE-LAN_7490220122 (layer F.Cu) (tedit 68D62937)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at 0.0 -10.765 0) (layer F.SilkS)

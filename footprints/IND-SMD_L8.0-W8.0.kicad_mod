@@ -1,0 +1,119 @@
+(footprint "IND-SMD_L8.0-W8.0"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "0c75831a-a79a-4c04-a0ff-ec23fccd5de6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L8.0-W8.0"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "992d043b-4eb8-4d47-833d-dcce4838dfdb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7e0b1e9-0b6a-4aff-bd3c-7c1c0a46f2c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25401cc4-da0b-401f-86eb-78db509f1281")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.08 -4.02)
+		(end 4.08 -4.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c8d4ce5-ee6f-4379-9c44-dad2add76668")
+	)
+	(fp_line
+		(start -4.08 4.02)
+		(end 4.08 4.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39c3ee07-d490-4b8c-9675-19a8dc1c9b74")
+	)
+	(fp_circle
+		(center -3.97 3.97)
+		(end -3.94 3.97)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "03195609-29f9-4d89-8119-437bcf99d15f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d3754b2b-9240-46a1-b570-bbc6a914d90f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 3.33 0)
+		(size 3.02 7.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "27b1b6b2-98f9-495e-81be-9d8017abf2f2")
+	)
+	(pad "2" smd rect
+		(at -3.33 0)
+		(size 3.02 7.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "563e8ec5-f075-4ab3-ab4d-29b23ad09239")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3ds/IND-SMD_L8.0-W8.0-H4.2.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
