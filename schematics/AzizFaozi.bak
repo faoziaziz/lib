@@ -20036,7 +20036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FootprintDalfin:USB-C_SMD-TYPE-C-31-M-12"
+		(property "Footprint" "footprints:USB-C_SMD-TYPE-C-31-M-12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20055,6 +20055,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "lcsc_id" "C165948"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "price" "0.1774"
 			(at 0 0 0)
 			(effects
 				(font
