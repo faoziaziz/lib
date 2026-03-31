@@ -5357,7 +5357,7 @@
 		(uuid "5a10f5fb-4aa5-4060-b340-1be08bd32808")
 	)
 	(embedded_fonts no)
-	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/MAPBGA-289_L14.0-W14.0-R17-C17-P0.80-TL.wrl"
+	(model "${KIPRJMOD}/lib/3ds/MAPBGA-289_L14.0-W14.0-R17-C17-P0.80-TL.wrl"
 		(offset
 			(xyz 0 -0 -0)
 		)

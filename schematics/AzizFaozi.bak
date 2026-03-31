@@ -20603,7 +20603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:SOT-23-3_L3.0-W1.6-P1.90-LS2.8-BR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20622,6 +20622,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "lcsc_id" "C620009"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "price" "0.73"
 			(at 0 0 0)
 			(effects
 				(font

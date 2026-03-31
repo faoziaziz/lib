@@ -23241,7 +23241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C780038"
+		(property "lcsc_id" "C780038"
 			(at 0 0 0)
 			(effects
 				(font
